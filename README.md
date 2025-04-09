@@ -1,3 +1,7 @@
+![Gameplay Screenshot](screenshot1.png)
+![Gameplay Screenshot](screenshot2.png)
+
+
 🌗 Dark Mode Toggle UI
 
 A beautifully animated dark mode toggle switch built with pure **HTML** and **CSS** — no JavaScript required!  
