@@ -27,4 +27,4 @@ Inspired by minimal UI design and gradient-based aesthetics, this toggle mimics 
 ---
 ![Day Mode Screenshot](screenshot1.png)
 ![Night Mode Screenshot](screenshot2.png)
-![Night Mode Screenshot]()
+![Night Mode Screenshot](Recording%202025-04-09%20122706.gif)
