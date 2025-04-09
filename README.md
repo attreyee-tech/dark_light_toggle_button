@@ -1,5 +1,3 @@
-![Gameplay Screenshot](screenshot1.png)
-![Gameplay Screenshot](screenshot2.png)
 
 
 🌗 Dark Mode Toggle UI
@@ -27,3 +25,6 @@ Inspired by minimal UI design and gradient-based aesthetics, this toggle mimics 
 - Responsive layout with Flexbox centering.
 
 ---
+![Day Mode Screenshot](screenshot1.png)
+![Night Mode Screenshot](screenshot2.png)
+![Night Mode Screenshot]()
